@@ -6,9 +6,9 @@ I'm a Computer Science student at the University of Waterloo who loves building 
 
 Here are a few projects I'm proud of:
 
-- 🍳 [**CookAI**](https://github.com/DominiqueWang/CookAI): AI-powered recipe generator built with React, Node.js, and Claude API  
-- 📎 [**PDF Merge App**](https://github.com/DominiqueWang/PDF-Merge-App): Flask-based tool to merge multiple PDF files into one  
-- ✅ [**TaskTracker**](https://github.com/DominiqueWang/TaskTracker): Django to-do list app with full CRUD functionality  
+- 🍳 [**CookAI**](https://github.com/ddddominique/CookAI): AI-powered recipe generator built with React, Node.js, and Claude API  
+- 📎 [**PDF Merge App**](https://github.com/ddddominique/PDF-MERGER): Flask-based tool to merge multiple PDF files into one  
+- ✅ [**TaskTracker**](https://github.com/ddddominique/TASK-TRACKER): Django to-do list app with full CRUD functionality  
 
 ## 🛠️ Tech Stack
 
