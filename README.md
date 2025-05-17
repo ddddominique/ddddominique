@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Dominique Wang
+# 👋 Hi, I'm Dominique
 
 I'm a Computer Science student at the University of Waterloo who loves building useful tools and solving real-world problems through full-stack web development.
 
