@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Dominique
+#  Hi, I'm Dominique
 
 I'm a Computer Science student at the University of Waterloo who loves building useful tools to solve some issues.
 
-## 🚀 Projects
+##  Projects
 
 Here are a few projects I'm proud of:
 
@@ -10,7 +10,7 @@ Here are a few projects I'm proud of:
 - 📎 [**PDF Merge App**](https://github.com/ddddominique/PDF-MERGER): Flask-based tool to merge multiple PDF files into one  
 - ✅ [**TaskTracker**](https://github.com/ddddominique/TASK-TRACKER): Django to-do list app with full CRUD functionality  
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Languages:** C, C++, Python, JavaScript, HTML, CSS, SQL  
 **Frameworks & Libraries:** React.js, Node.js, Django, Flask, Bootstrap  
