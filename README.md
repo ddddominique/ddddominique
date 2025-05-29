@@ -16,7 +16,7 @@ Here are a few projects I'm proud of:
 **Frameworks & Libraries:** React.js, Node.js, Django, Flask, Bootstrap  
 **Tools:** Git, GitHub, Linux, Bash, VS Code, LaTeX  
 
-## 📫 Contact
+##  Contact
 
 - [LinkedIn](https://www.linkedin.com/in/dominique-wang/)  
 - 📧 wangyidong9563@gmail.com  
