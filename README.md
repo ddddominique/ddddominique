@@ -1,6 +1,6 @@
 #  Hi, I'm Dominique
 
-I'm a Computer Science student at the University of Waterloo who loves building useful tools to solve some issues.
+I'm a Computer Science student at the University of Waterloo who loves building useful tools to solve some problems.
 
 ##  Projects
 
